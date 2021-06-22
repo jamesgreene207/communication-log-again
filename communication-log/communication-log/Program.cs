@@ -16,8 +16,6 @@ namespace communication_log
             Console.WriteLine("omg it friggin worked!");
 
             Console.WriteLine("good luck");
-
-            Console.BackgroundColor = ConsoleColor.Magenta;
         }
     }
 }
