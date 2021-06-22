@@ -18,7 +18,7 @@ namespace communication_log
             Console.WriteLine("good luck");
 
             Console.BackgroundColor = ConsoleColor.Blue;
-                ;
+                
         }
     }
 }
