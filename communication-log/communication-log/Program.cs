@@ -7,6 +7,10 @@ namespace communication_log
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Pilot!");
+
+
+
+            Console.WriteLine("this bitch better work");
         }
     }
 }
