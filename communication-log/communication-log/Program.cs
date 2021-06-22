@@ -11,6 +11,9 @@ namespace communication_log
 
 
             Console.WriteLine("this bitch better work");
+
+
+            Console.WriteLine("omg it friggin worked!");
         }
     }
 }
