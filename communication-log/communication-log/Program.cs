@@ -6,7 +6,7 @@ namespace communication_log
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Pilot!");
+            Console.WriteLine("We now run the show");
 
 
 
@@ -15,9 +15,7 @@ namespace communication_log
 
             Console.WriteLine("omg it friggin worked!");
 
-            Console.:WriteLine("good luck");
-
-            Console.WriteLine("not likely");
+            Console.WriteLine("good luck");
         }
     }
 }
