@@ -17,8 +17,9 @@ namespace communication_log
 
             Console.WriteLine("good luck");
 
-            Console.BackgroundColor = ConsoleColor.Magenta;
-                ;
+            Console.BackgroundColor = ConsoleColor.cyan;
+            Console.WriteLine("what do you call an alligator wearing a vest? An INVESTigator!");
+            
         }
     }
 }
