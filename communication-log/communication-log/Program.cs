@@ -13,11 +13,11 @@ namespace communication_log
             Console.WriteLine("this bitch better work");
 
 
-            Console.WriteLine("omg it friggin worked!");
+            Console.WriteLine("the weather up there must be nice");
 
             Console.WriteLine("good luck");
 
-            Console.BackgroundColor = ConsoleColor.Magenta;
+            Console.BackgroundColor = ConsoleColor.Blue;
                 ;
         }
     }
